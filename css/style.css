@@ -68,10 +68,10 @@ label span {
 }
 
 input {
-  padding: 20px;
+  padding: 10px;
   border: none;
   border-radius: 25px;
-  background-color: aqua;
+  background-color: rgb(180, 180, 180);
 }
 
 .projects {
@@ -122,4 +122,11 @@ input::-webkit-inner-spin-button {
   text-align: center;
   font-size: 18px;
   font-weight: 800;
+}
+
+
+select {
+  padding: 10px;
+  margin-bottom: 10px;
+  border-radius: 8px;
 }
